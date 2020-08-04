@@ -1,3 +1,4 @@
 # Clifton.TableauChallenge
-Tableau Challenge and write up
+Tableau Challenge and write up.
+
 The first observation found within the data is that Trip Duration was highly skewed with several extreme outliers. Because of this, I decided to summarize the data by using median Trip Duration. I sought to determine at what time (hour) of the day resulted in the largest Trip Duration on average. This analysis lead me to the conclusion that the rush hours (8am, 5-6pm) resulted in the highest concentration of riders, but the largest average Trip Duration was found for rides beginning around 3pm. This seems intuitive as the earlier in the afternoon that a trip is started, ultimately the more daylight there is left to continue this trip. The next thing I sought to answer was to summarize our typical customers. Our customer base is almost entirely composed of male subscribers with the bulk of these subscribers being in their late 20s or early 30s. This leaves a huge marketing opportunity to expand our customer base by capturing more female business. We could do this by implementing more safety measures that female customers might find attractive.
